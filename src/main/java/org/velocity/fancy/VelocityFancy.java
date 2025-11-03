@@ -1,4 +1,4 @@
-package org.example.velocity_fancy;
+package org.velocity.fancy;
 
 import com.mojang.logging.LogUtils;
 import net.minecraft.client.Minecraft;
