@@ -1,0 +1,13 @@
+{
+  "itemGroup.velocityfancy": "Example Mod Tab",
+  "block.velocityfancy.example_block": "Example Block",
+  "item.velocityfancy.example_item": "Example Item",
+
+  "velocityfancy.configuration.title": "VelocityFancy Configs",
+  "velocityfancy.configuration.section.velocityfancy.common.toml": "VelocityFancy Configs",
+  "velocityfancy.configuration.section.velocityfancy.common.toml.title": "VelocityFancy Configs",
+  "velocityfancy.configuration.items": "Item List",
+  "velocityfancy.configuration.logDirtBlock": "Log Dirt Block",
+  "velocityfancy.configuration.magicNumberIntroduction": "Magic Number Text",
+  "velocityfancy.configuration.magicNumber": "Magic Number"
+}
